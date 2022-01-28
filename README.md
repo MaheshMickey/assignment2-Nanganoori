@@ -32,5 +32,3 @@ Rajiv Gandhi International airport ,Hyderbad, India.
     * Chicken shawarma with salad
 ### Link to AboutMe 
 **[AboutMe page](AboutMe.md)** 
-
-##
