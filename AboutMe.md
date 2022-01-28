@@ -7,6 +7,6 @@
 ## Tables
 |:Sport|:Location:|Money:|
 |:---|:---:|---:|
-|:Cricket|:India:|300$:|
-|:Badminton|:Austrailia:|200$:| 
+|Cricket|India|300$|
+|Badminton|Austrailia|200$| 
   
