@@ -5,8 +5,10 @@
 ![Mahesh_Kumar](/Mahesh.jpg) 
 *******************************************************************************
 ## Tables
-|:Sport|:Location:|Money:|
+|Sport|Location|Money|
 |:---|:---:|---:|
-|Cricket|India|300$|
-|Badminton|Austrailia|200$| 
+|Cricket|INDIA|300$|
+|Badminton|JAPAN|200$|
+|Hockey|INDIA|200$|
+|BasketBall|USA|100$|
   
