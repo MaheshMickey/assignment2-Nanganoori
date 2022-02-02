@@ -18,16 +18,13 @@
 > It is better to be hated for what you are than to be loved for what you are not.
 >> *~André Gide*
 ***********************************************************************************
-
-> # Convex Hull Construction
-Algorithms that construct convex hulls of various objects have a broad range of applications in mathematics and computer science.
+# Convex Hull Construction
+> Algorithms that construct convex hulls of various objects have a broad range of applications in mathematics and computer science.
 In computational geometry, numerous algorithms are proposed for computing the convex hull of a finite set of points, with various computational complexities.
 Computing the convex hull means that a non-ambiguous and efficient representation of the required convex shape is constructed. The complexity of the corresponding algorithms is usually estimated in terms of n, the number of input points, and sometimes also in terms of h, the number of points on the convex hull.
 
 [Link to Another Source](https://en.wikipedia.org/wiki/Convex_hull_algorithms)
 
-[Link to Code Source](https://cp-algorithms.com/geometry/convex-hull.html)
-  ```
   struct pt {
     double x, y;
 };
@@ -73,3 +70,4 @@ void convex_hull(vector<pt>& a, bool include_collinear = false) {
 }
 
 ```
+[Link to Code Source](https://cp-algorithms.com/geometry/convex-hull.html)
