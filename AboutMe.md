@@ -25,6 +25,7 @@ Computing the convex hull means that a non-ambiguous and efficient representatio
 
 [Link to Another Source](https://en.wikipedia.org/wiki/Convex_hull_algorithms)
 
+  ```
   struct pt {
     double x, y;
 };
